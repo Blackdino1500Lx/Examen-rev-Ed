@@ -1,0 +1,72 @@
+body{
+    margin: 0%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8f8f8;
+}
+h1{
+    text-align: center;
+    color:#f8f8f8 ;
+    background-color: #322214;
+    height: 70px;
+    margin-top: 0px;
+
+}
+.logoini{
+    position: absolute;
+    top: 15px;
+    left: 0;
+}
+nav{
+    text-align: center;
+}
+nav a{
+    text-decoration: none;
+    color:#322214;
+    font-size: 28px;
+    font-weight: bold;
+    transition: 0.4s;
+}
+
+nav a ul{
+    list-style: none;
+    padding: 0px;
+}
+nav ul li{
+    display: inline-block;
+    margin:  0 30px;
+    padding: 10px;
+    background-color: #a7d4fcb7 ;
+    border-radius: 12px;
+    transition: 0.4s;
+}
+nav a:hover{
+    color: #f8f8f8;
+}
+nav ul li:hover{
+    background-color: #322214;
+}
+.banner1{
+    display: block;
+    text-align: center;
+    border-radius: 10px;
+}
+aside{
+    float: right;
+    width: 500px;
+}
+.AsBoton1,.AsBoton2{
+    text-align: center;
+}
+.TituloMain{
+    text-align: center;
+}
+.blog1{
+    width: 750px;
+    width: 500px;
+    background-color: #919191;
+    border-radius: 10px;
+}
+.blog a{
+    text-align: center;
+    justify-content: center;
+}
